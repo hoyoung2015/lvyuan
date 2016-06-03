@@ -1,4 +1,4 @@
-package net.hoyoung.persistent;
+package net.hoyoung.lvyuan.common.persistent;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
